@@ -2,8 +2,9 @@
 // Run the code and examine the output. 
 
 // Given the values for fuelLevel, crewStatus and computerStatus, should launchReady be true or false?
+// Given the values for fuelLevel launchReady should be false
 // Is the program behaving as expected?
-
+//The program has reassigned launchReady
 let launchReady = false;
 let fuelLevel = 17000;
 let crewStatus = true;

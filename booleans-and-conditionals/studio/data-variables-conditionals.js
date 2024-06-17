@@ -1,4 +1,9 @@
 // Initialize Variables below
+let date = "Monday 2019-03-18";
+let time = "10:05:34 AM";
+let astronautcount = 7;
+let astronautStatus = "ready"
+
 
 // add logic below to verify total number of astronauts for shuttle launch does not exceed 7
 
